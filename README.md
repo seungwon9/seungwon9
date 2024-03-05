@@ -1,6 +1,6 @@
 ### Hi there 👋
 ![seungwon9's GitHub stats](https://github-readme-stats.vercel.app/api?username=seungwon9&show_icons=true&theme=radical)
-(https://github.com/bi-sz/github-readme-stats)
+(https://github.com/seungwon9/github-readme-stats)
 <!--
 **seungwon9/seungwon9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
